@@ -1,1 +1,2 @@
 # Thesis-situation-awareness-and-challenges-issues-related-to-user-experience-domain-of-IOT-
+The project is about health monitoring device for coal mine workers. The hardware device collects the heart rate, smoke and location of the worker and transmits the data to the application via internet.
